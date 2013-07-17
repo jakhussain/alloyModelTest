@@ -1,0 +1,13 @@
+<Alloy>
+	<Window layout="vertical" class="container">
+		
+		 <Button id="button" onClick="doClick" title="Save"
+            top="10" width="100" height="50" />
+            
+            <Button id="buttonFetch" onClick="doClickFetch" title="Fetch"
+            top="10" width="100" height="50" />
+            
+             <Button id="buttonRemove" onClick="doClickRemove" title="Remove"
+            top="10" width="100" height="50" />
+	</Window>
+</Alloy>
